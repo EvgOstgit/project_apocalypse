@@ -1,0 +1,4 @@
+--- КОНТЕНТНАЯ ФИЛЬТРАЦИЯ ---
+1. Модель E5 small - https://huggingface.co/intfloat/multilingual-e5-small
+2. Русскоязычный датасет - https://huggingface.co/datasets/ScoutieAutoML/russian-news-telegram-dataset
+3.                       - https://huggingface.co/datasets/IlyaGusev/gazeta
